@@ -17,9 +17,6 @@ print ("This is the end of the programme")
 
 print("===================================")
 
-<<<<<<< HEAD
+
 print("modify")
 
-=======
-print("a new modification!\n")
->>>>>>> fe838194ae4fcd9e65367bc680fe4e555632c024
